@@ -15,7 +15,7 @@ Site for a Kragujevac print and embroidery workshop, with a front-and-back T-shi
   <tr><td><b>Location</b></td><td>Kragujevac, Serbia</td></tr>
   <tr><td><b>Type</b></td><td>Multi-page website with a T-shirt configurator</td></tr>
   <tr><td><b>My role</b></td><td>Design, development, SEO, hosting and maintenance</td></tr>
-  <tr><td><b>Stack</b></td><td>PHP 8.3, SQLite, Fabric.js 5.3, vanilla JS</td></tr>
+  <tr><td><b>Stack</b></td><td>PHP 8.3, SQLite, Fabric.js 5.1, vanilla JS</td></tr>
 </table>
 
 ## About the project

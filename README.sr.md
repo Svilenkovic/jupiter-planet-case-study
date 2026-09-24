@@ -15,7 +15,7 @@ Sajt za radionicu štampe i veza iz Kragujevca, sa konfiguratorom prednje i zadn
   <tr><td><b>Lokacija</b></td><td>Kragujevac</td></tr>
   <tr><td><b>Vrsta</b></td><td>Sajt sa više strana i konfiguratorom majica</td></tr>
   <tr><td><b>Moj deo posla</b></td><td>Dizajn, izrada, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>PHP 8.3, SQLite, Fabric.js 5.3, vanilla JS</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>PHP 8.3, SQLite, Fabric.js 5.1, vanilla JS</td></tr>
 </table>
 
 ## O projektu
