@@ -4,7 +4,7 @@
 
 Site for a Kragujevac print and embroidery workshop, with a front-and-back T-shirt configurator that ends in a quote instead of a cart.
 
-**[jupiterplanet.rs](https://jupiterplanet.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/jupiter-planet) · [Srpski](README.sr.md)
+**[jupiterplanet.rs](https://jupiterplanet.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/jupiter-planet) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The site is built around a configurator with seven garments, a colour palette an
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 99 | 100 | 100 | 100 |
-| Desktop | 98 | 100 | 100 | 100 |
+| Mobile | 98 | 100 | 100 | 100 |
+| Desktop | 97 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ClothingStore`, `FAQPage`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ClothingStore`, `FAQPage`.
 
 ## Screenshots
 

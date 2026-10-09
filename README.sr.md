@@ -37,10 +37,10 @@ Glavni deo sajta je konfigurator sa sedam odevnih predmeta, paletom boja i poseb
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 99 | 100 | 100 | 100 |
-| Desktop | 98 | 100 | 100 | 100 |
+| Telefon | 98 | 100 | 100 | 100 |
+| Desktop | 97 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `ClothingStore`, `FAQPage`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `ClothingStore`, `FAQPage`.
 
 ## Snimci ekrana
 
