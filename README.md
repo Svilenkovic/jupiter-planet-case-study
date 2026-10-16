@@ -38,7 +38,7 @@ The site is built around a configurator with seven garments, a colour palette an
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Mobile | 98 | 100 | 100 | 100 |
-| Desktop | 90 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ClothingStore`, `FAQPage`.
 
